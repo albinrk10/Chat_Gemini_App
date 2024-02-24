@@ -1,4 +1,4 @@
-# yes_no_app
+# chat Gemini App
 
 A new Flutter project.
 
