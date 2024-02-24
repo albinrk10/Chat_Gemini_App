@@ -14,7 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-![Screenshot_1708744899](https://github.com/albinrk10/Chat_Gemini_App/assets/79820950/9847a622-aba9-4c3c-89d4-1e84b5b64b95)
+
+![Screenshot_1708751129](https://github.com/albinrk10/Chat_Gemini_App/assets/79820950/3f4dcb55-a44d-4ee4-8e49-258df82a82b2)
 
 
 # Chat_Gemini_App
